@@ -25,3 +25,4 @@ like
 emailValidation.js
 passwordValidation.js 
 
+![Screenshot 2021-05-07 at 7 40 37 PM](https://user-images.githubusercontent.com/49443497/117462290-2363bd80-af6c-11eb-9f0c-4b7f12532ada.png)
